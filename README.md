@@ -6,8 +6,8 @@ This tool uses autogen to create agents. It accesses a LinkedIn page and gives t
 
 
 ```
-conda create -n linkedin_summarizer python=3.11
-conda activate linkedin_summarizer
+conda create -n property_finder python=3.11
+conda activate property_finder
 pip install poetry
 poetry install
 ```
@@ -15,7 +15,7 @@ This creates a specific environment with all the libraries in need!
 
 
 
-## to start the project
+## to start the chatbot
 ```chainlit run .\property_finder\frontend\main.py```
 
 
