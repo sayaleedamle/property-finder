@@ -6,4 +6,5 @@
 ## Location from where properties will be shown
 - India
 - London
+  
 The default is set to India, but if you want to find houses in London, please specify it!
