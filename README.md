@@ -1,6 +1,6 @@
 ## Description
 
-This tool uses autogen to create agents. It accesses a LinkedIn page and gives the summary of the page.
+This tool uses autogen to create agents and uses tools. It suggests properties based on user input on savills.com
 
 ## Installation instructions
 
