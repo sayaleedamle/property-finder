@@ -2,6 +2,11 @@
 
 This tool uses autogen to create agents and uses tools. It suggests properties based on user input on savills.com
 
+Read this medium blog to understand the project better!
+
+https://medium.com/@sayaleedamle/using-agents-to-understand-natural-language-3589cad03a1e
+
+
 ## Installation instructions
 
 
